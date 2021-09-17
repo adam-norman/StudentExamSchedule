@@ -1,0 +1,13 @@
+D:\Work\Freelance\csvReader\ExamsSchedule\bin\Debug\netcoreapp3.1\ExamsSchedule.exe
+D:\Work\Freelance\csvReader\ExamsSchedule\bin\Debug\netcoreapp3.1\ExamsSchedule.deps.json
+D:\Work\Freelance\csvReader\ExamsSchedule\bin\Debug\netcoreapp3.1\ExamsSchedule.runtimeconfig.json
+D:\Work\Freelance\csvReader\ExamsSchedule\bin\Debug\netcoreapp3.1\ExamsSchedule.runtimeconfig.dev.json
+D:\Work\Freelance\csvReader\ExamsSchedule\bin\Debug\netcoreapp3.1\ExamsSchedule.dll
+D:\Work\Freelance\csvReader\ExamsSchedule\bin\Debug\netcoreapp3.1\ExamsSchedule.pdb
+D:\Work\Freelance\csvReader\ExamsSchedule\obj\Debug\netcoreapp3.1\ExamsSchedule.AssemblyInfoInputs.cache
+D:\Work\Freelance\csvReader\ExamsSchedule\obj\Debug\netcoreapp3.1\ExamsSchedule.AssemblyInfo.cs
+D:\Work\Freelance\csvReader\ExamsSchedule\obj\Debug\netcoreapp3.1\ExamsSchedule.csproj.CoreCompileInputs.cache
+D:\Work\Freelance\csvReader\ExamsSchedule\obj\Debug\netcoreapp3.1\ExamsSchedule.dll
+D:\Work\Freelance\csvReader\ExamsSchedule\obj\Debug\netcoreapp3.1\ExamsSchedule.pdb
+D:\Work\Freelance\csvReader\ExamsSchedule\obj\Debug\netcoreapp3.1\ExamsSchedule.genruntimeconfig.cache
+D:\Work\Freelance\csvReader\ExamsSchedule\obj\Debug\netcoreapp3.1\ExamsSchedule.csprojAssemblyReference.cache
